@@ -33,3 +33,4 @@ Please feel free to use a different markup language if you do not plan to run
 [*Ruby on Railsチュートリアル:
 実例を使ってRailsを学ぼう*](http://railstutorial.jp/)
 [Michael Hartl](http://www.michaelhartl.com/)著
+リスト3-4からだよ
