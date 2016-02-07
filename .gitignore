@@ -16,6 +16,9 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore Spring files.
+/spring/*.pid
 =======
 *.rbc
 capybara-*.html
@@ -53,3 +56,4 @@ bower.json
 # Ignore pow environment settings
 .powenv
 >>>>>>> 02b6ad90440442d6494c3346914a12737e678685
+
